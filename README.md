@@ -1,7 +1,7 @@
 # ML-Note
 Study note for Machine Learning 
 
-此项目主要用作个人在学习基础的机器学习知识的笔记，
+此项目主要用作个人在学习基础的机器学习知识所做的笔记，
 
 相关更具体的内容欢迎移步我的博客[BFlame](https://bflameswift.github.io/),~~赶紧宣传一下（bushi~~，
 
@@ -26,4 +26,16 @@ Study note for Machine Learning
 |                     |           |             |
 |                     |           |             |
 |                     |           |             |
+
+
+
+
+
+## Something else
+
+呜呜呜，早就听说好多大佬大一暑假就开始ML了，，正常寒假也应该好好开始的，，希望现在还来得及。。。
+
+没图先来个`Einstein`镇楼
+
+![Einstein](https://github.com/BFlameSwift/img/blob/main/20210619204013.jpg)
 
