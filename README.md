@@ -5,7 +5,7 @@ Study note for Machine Learning
 
 相关更具体的内容欢迎移步我的博客[BFlame](https://bflameswift.github.io/),~~赶紧宣传一下（bushi~~，
 
-（虽然现在还没有开始）
+（虽然现在刚刚开始）
 
 
 
@@ -19,8 +19,8 @@ Study note for Machine Learning
 
 |  Concrete Content   |   Date    |   Status    |
 | :-----------------: | :-------: | :---------: |
-|   Basic knowledge   | 2021/6/21 | In Progress |
-|    Decision Tree    | 2021/6/28 | Not Started |
+|   Basic knowledge   | 2021/6/21 |  Complete   |
+|    Decision Tree    | 2021/6/28 | In Progress |
 | Regression Analysis | 2021/7/1  | Not Started |
 |                     |           |             |
 |                     |           |             |
