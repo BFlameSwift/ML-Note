@@ -21,7 +21,7 @@ Study note for Machine Learning
 | :-----------------: | :-------: | :---------: |
 |   Basic knowledge   | 2021/6/21 |  Complete   |
 |    Decision Tree    | 2021/6/28 |  Complete   |
-| Regression Analysis | 2021/7/1  | Not Started |
+| Regression Analysis | 2021/7/1  | In Progress |
 |                     |           |             |
 |                     |           |             |
 |                     |           |             |
